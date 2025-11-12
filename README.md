@@ -5,3 +5,7 @@
     source .venv/bin/activate
     deactivate
 ```
+
+```bash
+    pip install -r requiremnts.txt
+```
